@@ -9,7 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="ruby-2.6.8-p205" jdkType="RUBY_SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.2.32, ruby-2.6.8-p205) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debase (v0.2.5.beta2, ruby-2.6.8-p205) [gem]" level="application" />
