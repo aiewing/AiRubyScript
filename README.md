@@ -1,0 +1,2 @@
+# AiRubyScript
+Ruby脚本
